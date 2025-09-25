@@ -1,0 +1,7 @@
+pytest
+requests
+jsonschema
+pytest-html
+pytest-xdist
+responses
+faker
