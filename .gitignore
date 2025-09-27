@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+report.html
+*.log
+.venv/
+assets
